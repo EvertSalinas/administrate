@@ -14,6 +14,7 @@ module Administrate
         text: "Field::Text",
         string: "Field::String",
         uuid: "Field::String",
+        hidden: "Field::Hidden"
       }
 
       ATTRIBUTE_OPTIONS_MAPPING = {
